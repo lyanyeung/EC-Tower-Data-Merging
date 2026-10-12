@@ -1,0 +1,24 @@
+# Source tower products and generated scientific data are not redistributed.
+*.zip
+*.tar
+*.tar.gz
+*.nc
+*.nc4
+*.csv
+*.parquet
+*.h5
+*.hdf5
+*.log
+*.partial
+**/__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+*.pem
+*.key
+**/forcing/
+**/raw/
+**/packages/
+**/outputs/
+**/archive/

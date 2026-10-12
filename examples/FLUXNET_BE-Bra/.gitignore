@@ -1,0 +1,15 @@
+# Never commit downloaded EC datasets, source packages, gridded forcing, or model output.
+*.csv
+*.zip
+*.nc
+*.nc4
+*.log
+*.partial
+*.tmp
+*.bak
+*.tar
+*.tar.gz
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

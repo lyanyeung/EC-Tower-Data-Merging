@@ -1,0 +1,11 @@
+**/__pycache__/
+**/*.pyc
+*.zip
+*.nc
+*multisource_HH_*_candidate.csv
+*ERA5_*coverage*.csv
+*yearly_met_coverage*.csv
+*source_summary*.csv
+*overlap_differences*.csv
+*merge_status.json
+*.log
