@@ -1,0 +1,14 @@
+# Raw source packages and generated data are not redistributable.
+*.zip
+*.csv
+*.nc
+*.nc4
+*.log
+*.parquet
+*.partial
+**/__pycache__/
+**/forcing/
+**/raw*/
+**/packages*/
+**/audit_multisource_v1/
+**/merged*/

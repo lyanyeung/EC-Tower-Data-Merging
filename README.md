@@ -12,6 +12,7 @@ This repository focuses on **EC data release reconciliation**, not model spin-up
 | [`FLUXNET_MultiSource_3Sites`](examples/FLUXNET_MultiSource_3Sites/) | DK-Sor | 1996–2025 | merge completed; met no missing |
 | ↳ same batch workflow | FR-Fon | 2005–2025 | merge completed; met no missing |
 | ↳ same batch workflow | IT-Noe | 2004–2025 | merge completed; met no missing |
+| [`FLUXNET_GL-ZaH`](examples/FLUXNET_GL-ZaH/) | GL-ZaH | 2000–2025 (planned) | ERA5 bridge coverage verified; merge and QC pending |
 
 See [the recorded run summary](docs/MERGE_RESULTS_2026-10-13.md) for counts and known limitations.
 
